@@ -26,7 +26,7 @@ Muscle through these articles at your own risk. Or head over to the [Project Arc
 </li>
 <h3>Ventures</h3>
 
-With the collaborative effort and healthy skepticism of my brothers (coincidentally, fellow researchers), we launched a startup called SlateQ, aimed at creating a better Author Services marketplace for scientists. Most researchers encounter a language barrier when trying to publish their work. The current tools to help them jump that hurdle are poorly executed, random, expensive or all of the previous. SlateQ is a distributed online hub of active researchers available to help other researchers communicate more clearly and efficiently. After launching our initial product, and gaining interest from users, we're under further development to produce more powerful online connectivity. A well executed product is the only one worth delivering.
+The Author Services market delivers inadequate assistance in a massively important space. We can do better. Globally, most researchers encounter a language barrier when trying to publish their work. The current tools to help them jump that hurdle are poorly executed, random, expensive or all of the previous. Our co-founders and myself launched SlateQ, a distributed, online hub of active researchers available to help other researchers communicate more clearly and efficiently. After releasing our initial product, and gaining interest from users, we're under further development to produce more powerful online connectivity. A well executed product is the only one worth delivering.
 
 <h3>Teaching</h3>
 One of the best decisions I ever made was to accept a position as TA for Introduction to Regenerative Medicine (MPET 6820). The course directors and I were offered a chance to develop the course into a live-shared classroom with students and faculty at the Karolinska Institutet (SWE). With so much content to draw from, we were also able to obtain funding to create an interactive online tutorial series (complete with animated content and professional narration) with tiered information delivery relevant to anyone from lay-people to medical experts. The finished product is in production with the animation/web-dev vendor that has been working with our team.
@@ -41,16 +41,6 @@ I often have opinions, and I like to write (and help other people write too). I'
 </li>
 <li><a href="http://educationdiversityblog.mayo.edu/discussion/accepting-our-stupidity-and-having-fun-in-the-process/ ">Accepting our own stupidity</a>
 </li>
-
-<h3>FAQ</h3>
-Q: "What do you do in your free time?"
-<p class="message">When I'm not in lab, you can usually find me searching for interesting coffees, running or biking (I used to run triathlon), or playing pickup volleyball when the opportunity presents itself. Canoeing and / or fishing are additional fan favorites.
-</p>
-Q: "Do you have something lined up for after you graduate? (read: "can I hire you?")"
-<p class="message"> I am currently available for hire. Hurry while supplies last!</p>
-
-Q: You're headed to a movie and can only bring in one snack. What do you choose??
-<p class="message">Kettle corn is the snack of the gods. It's the perfect movie food. Although, sneaking a beer into a movie always makes me feel badass. Does beer count as a snack?</p>
 
 <h3>Signal transmission:</h3>
 

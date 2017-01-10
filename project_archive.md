@@ -2,7 +2,7 @@
 layout: page
 title: Project Archive
 ---
-An incomplete collection of battle scars, described informally. Enjoy!
+An incomplete collection of battle scars, described informally.
 
 <h3>Characterizing osteosarcoma responses to Wnt inhibition as a chemotherapeutic measure</h3>
 
