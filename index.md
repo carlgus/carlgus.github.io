@@ -23,12 +23,14 @@ On occasion, I write fairly opinionated blog format articles about science and h
 </p>
 <h3>Signal transmission:</h3>
 
-<li><a href="carltgustafson@gmail.com">email</a>
+<li><a href="carltgustafson@gmail.com">Email</a>
 </li>
-<li><a href="https://twitter.com/carlgus1">twitter</a>
+<li><a href="https://twitter.com/carlgus1">Twitter</a>
 </li>
 <li><a href="https://www.linkedin.com/in/carl-gustafson-885a80101/">LinkedIn</a>
 </li>
-<li><a href="https://github.com/carlgus">github</a>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Gustafson%20CT%5BAuthor%5D&cauthor=true&cauthor_uid=28588489">PubMed</a>
+</li>
+<li><a href="https://github.com/carlgus">GitHub</a>
 </li>
 <br/>
